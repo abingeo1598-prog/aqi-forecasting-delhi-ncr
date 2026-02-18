@@ -20,6 +20,23 @@ The analysis uses data collected from multiple monitoring stations across Delhi�
 - Meteorological variables (temperature, humidity, wind speed, etc.)  
 - Temporal and calendar features  
 - Pollutant concentrations (used only for baseline reconstruction)
+- ## Dataset Information
+
+The raw dataset used in this project exceeds GitHub’s file size limit.
+
+Due to size constraints, the data file is not included in the repository.
+
+Source:
+- Central Pollution Control Board (CPCB) / official AQI monitoring sources
+
+The dataset contains:
+- 6-hourly AQI values (06, 12, 18, 23)
+- Pollutant concentrations
+- Meteorological variables
+- Multiple monitoring stations across Delhi–NCR
+
+Preprocessing steps are documented inside the notebooks.
+
 
 ---
 
